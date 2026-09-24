@@ -1,4 +1,5 @@
-# NABOUDJA Tchapo | Joseph
+# NABOUDJA Tchapo
+##     Joseph
 |
 ### Developpeur Front-End
 |
