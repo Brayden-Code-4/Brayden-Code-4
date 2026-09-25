@@ -1,63 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="stackTitle stackDesc">
-  <title id="stackTitle">Langages</title>
-  <desc id="stackDesc">HTML, CSS, JavaScript et Dart.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="stackTitle stackDesc">
+  <title id="stackTitle">Compétences</title>
+  <desc id="stackDesc">Front-end, mobile, intelligence artificielle, back-end et outils.</desc>
   <defs>
     <filter id="lift" x="-20%" y="-20%" width="140%" height="150%">
       <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
     </filter>
     <linearGradient id="plateEdge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#3EE0B0" stop-opacity="0.0"/>
+      <stop offset="0" stop-color="#3EE0B0" stop-opacity="0"/>
       <stop offset="0.5" stop-color="#7CC4FF" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#F0C14D" stop-opacity="0.0"/>
+      <stop offset="1" stop-color="#F0C14D" stop-opacity="0"/>
     </linearGradient>
   </defs>
-
-  <rect width="1200" height="300" rx="28" fill="#070B12"/>
-  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+  <rect width="1200" height="340" rx="28" fill="#070B12"/>
+  <rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
   <rect x="80" y="58" width="1040" height="2" fill="url(#plateEdge)"/>
-
   <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
-    <text x="48" y="46" fill="#8B98AD" font-size="13" letter-spacing="4">LANGAGES</text>
+    <text x="48" y="46" fill="#8B98AD" font-size="13" letter-spacing="4">COMPÉTENCES</text>
     <text x="1152" y="46" text-anchor="end" fill="#ffffff" fill-opacity="0.28" font-size="18" letter-spacing="2" font-weight="700">JN</text>
   </g>
-
   <g filter="url(#lift)" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
     <g>
-      <rect x="40" y="84" width="265" height="180" rx="18" fill="#121826" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect x="40" y="84" width="265" height="220" rx="18" fill="#121826" stroke="#ffffff" stroke-opacity="0.08"/>
       <text x="62" y="116" fill="#FF8FA3" font-size="12" font-weight="700" letter-spacing="1.4">01</text>
-      <circle cx="172" cy="150" r="32" fill="#FF8FA3" fill-opacity="0.14"/>
-      <rect x="158" y="134" width="28" height="32" rx="3" fill="none" stroke="#FF8FA3" stroke-width="2"/>
-      <path d="M166 146L162 152L166 158M178 146L182 152L178 158" fill="none" stroke="#FF8FA3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="172" y="222" text-anchor="middle" fill="#F4F7FB" font-size="26" font-weight="700">HTML</text>
+      <text x="172" y="158" text-anchor="middle" fill="#F4F7FB" font-size="20" font-weight="700">Front-end</text>
+      <text x="172" y="182" text-anchor="middle" fill="#F4F7FB" font-size="20" font-weight="700">&amp; Mobile</text>
+      <text x="172" y="220" text-anchor="middle" fill="#B7C3D6" font-size="13">Flutter · Dart · React</text>
+      <text x="172" y="242" text-anchor="middle" fill="#B7C3D6" font-size="13">JavaScript · HTML · CSS</text>
+      <text x="172" y="264" text-anchor="middle" fill="#B7C3D6" font-size="13">Tailwind · PHP</text>
     </g>
-
     <g>
-      <rect x="325" y="84" width="265" height="180" rx="18" fill="#121826" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect x="325" y="84" width="265" height="220" rx="18" fill="#121826" stroke="#ffffff" stroke-opacity="0.08"/>
       <text x="347" y="116" fill="#7CC4FF" font-size="12" font-weight="700" letter-spacing="1.4">02</text>
-      <circle cx="457" cy="150" r="32" fill="#7CC4FF" fill-opacity="0.14"/>
-      <g fill="none" stroke="#7CC4FF" stroke-width="2">
-        <rect x="438" y="136" width="30" height="20" rx="4" stroke-opacity="0.35"/>
-        <rect x="444" y="142" width="30" height="20" rx="4" stroke-opacity="0.65"/>
-        <rect x="450" y="148" width="30" height="20" rx="4"/>
-      </g>
-      <text x="457" y="222" text-anchor="middle" fill="#F4F7FB" font-size="26" font-weight="700">CSS</text>
+      <text x="457" y="168" text-anchor="middle" fill="#F4F7FB" font-size="20" font-weight="700">Intelligence</text>
+      <text x="457" y="192" text-anchor="middle" fill="#F4F7FB" font-size="20" font-weight="700">artificielle</text>
+      <text x="457" y="230" text-anchor="middle" fill="#B7C3D6" font-size="13">LLMs · RAG · Agents</text>
+      <text x="457" y="252" text-anchor="middle" fill="#B7C3D6" font-size="13">n8n · Prompts</text>
     </g>
-
     <g>
-      <rect x="610" y="84" width="265" height="180" rx="18" fill="#121826" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect x="610" y="84" width="265" height="220" rx="18" fill="#121826" stroke="#ffffff" stroke-opacity="0.08"/>
       <text x="632" y="116" fill="#F0C14D" font-size="12" font-weight="700" letter-spacing="1.4">03</text>
-      <circle cx="742" cy="150" r="32" fill="#F0C14D" fill-opacity="0.14"/>
-      <rect x="724" y="132" width="36" height="36" rx="9" fill="none" stroke="#F0C14D" stroke-width="2"/>
-      <path d="M734 150H740L746 142L754 158L760 150" fill="none" stroke="#F0C14D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="742" y="222" text-anchor="middle" fill="#F4F7FB" font-size="26" font-weight="700">JavaScript</text>
+      <text x="742" y="168" text-anchor="middle" fill="#F4F7FB" font-size="20" font-weight="700">Back-end</text>
+      <text x="742" y="220" text-anchor="middle" fill="#B7C3D6" font-size="13">Python · Firebase</text>
+      <text x="742" y="242" text-anchor="middle" fill="#B7C3D6" font-size="13">APIs REST</text>
+      <text x="742" y="264" text-anchor="middle" fill="#B7C3D6" font-size="13">Notions Node.js · FastAPI</text>
     </g>
-
     <g>
-      <rect x="895" y="84" width="265" height="180" rx="18" fill="#121826" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect x="895" y="84" width="265" height="220" rx="18" fill="#121826" stroke="#ffffff" stroke-opacity="0.08"/>
       <text x="917" y="116" fill="#3EE0B0" font-size="12" font-weight="700" letter-spacing="1.4">04</text>
-      <circle cx="1027" cy="150" r="32" fill="#3EE0B0" fill-opacity="0.14"/>
-      <path d="M1010 156L1046 138L1032 170L1022 156Z" fill="#3EE0B0"/>
-      <text x="1027" y="222" text-anchor="middle" fill="#F4F7FB" font-size="26" font-weight="700">Dart</text>
+      <text x="1027" y="168" text-anchor="middle" fill="#F4F7FB" font-size="20" font-weight="700">Outils</text>
+      <text x="1027" y="220" text-anchor="middle" fill="#B7C3D6" font-size="13">Git · GitHub · Docker</text>
+      <text x="1027" y="242" text-anchor="middle" fill="#B7C3D6" font-size="13">Linux · Figma</text>
+      <text x="1027" y="264" text-anchor="middle" fill="#B7C3D6" font-size="13">Rédaction technique</text>
     </g>
   </g>
 </svg>

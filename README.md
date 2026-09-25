@@ -1,9 +1,32 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Joseph NABOUDJA, développeur front-end" width="100%" />
+  <img src="./assets/banner.svg" alt="Joseph NABOUDJA, développeur front-end et mobile à Lomé" width="100%" />
 </p>
 
-Je m'appelle Joseph. Je construis des interfaces front-end, du balisage jusqu'au comportement de l'écran.
+Développeur front-end et mobile à Lomé. Je construis des interfaces web et mobiles, et je monte vers le full-stack et les solutions d'IA.
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Langages : HTML, CSS, JavaScript et Dart" width="100%" />
+  <img src="./assets/stack.svg" alt="Compétences : front-end, mobile, intelligence artificielle, back-end et outils" width="100%" />
 </p>
+
+### Repères
+
+- **3e place mondiale** au hackathon The Udara Project (juin 2026), développeur front-end unique de l'équipe ZeToD.
+
+- **3e place** au Miabé Hackathon (2026), côté front-end.
+
+- **FlutterFire Summer Camp**, avec des Google Developer Experts (2026).
+
+- **E-Stage Facile**, depuis 2024 : une plateforme pour le recrutement de stagiaires au Togo. Front-end, cahier des charges, et analyse de documents.
+
+- **OTR** : stage développeur mobile d'octobre 2026 à octobre 2027, avec Flutter et Firebase.
+
+Spécialisation RAG et agents IA en cours, avec Rhodium AI et le MEST Ghana. Bénévole avec GDG Lomé, Space X AI Lomé et Forge4Africa.
+
+### Liens
+
+- [GitHub](https://github.com/Brayden-Code-4)
+
+- [LinkedIn](https://www.linkedin.com/in/joseph-naboudja-42193625b/)
+
+- naboudjat@gmail.com
+

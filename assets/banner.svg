@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="bannerTitle bannerDesc">
   <title id="bannerTitle">Joseph NABOUDJA</title>
-  <desc id="bannerDesc">Bannière de profil. Joseph NABOUDJA, développeur front-end.</desc>
+  <desc id="bannerDesc">Bannière de profil. Joseph NABOUDJA, développeur front-end et mobile à Lomé.</desc>
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#3EE0B0"/>
@@ -51,7 +51,8 @@
     <text x="64" y="214" fill="#F4F7FB" font-size="84" font-weight="700">Joseph</text>
     <text x="66" y="254" fill="#93A0B5" font-size="18" letter-spacing="3.6">NABOUDJA TCHAPO</text>
     <rect x="64" y="278" width="276" height="42" rx="21" fill="#10151F" stroke="url(#edge)" stroke-width="1.25"/>
-    <text x="202" y="304" text-anchor="middle" fill="#F4F7FB" font-size="16">Développeur front-end</text>
+    <text x="202" y="304" text-anchor="middle" fill="#F4F7FB" font-size="16">Front-End &amp; Mobile</text>
+    <text x="66" y="348" fill="#93A0B5" font-size="15">Lomé, Togo</text>
   </g>
 
   <g>
@@ -103,12 +104,12 @@
 
   <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#B7C3D6">
     <rect x="600" y="356" width="10" height="10" rx="2" fill="#FF8FA3"/>
-    <text x="616" y="366">HTML</text>
-    <rect x="690" y="356" width="10" height="10" rx="2" fill="#7CC4FF"/>
-    <text x="706" y="366">CSS</text>
-    <rect x="768" y="356" width="10" height="10" rx="2" fill="#F0C14D"/>
-    <text x="784" y="366">JavaScript</text>
-    <rect x="888" y="356" width="10" height="10" rx="2" fill="#3EE0B0"/>
-    <text x="904" y="366">Dart</text>
+    <text x="616" y="366">Flutter</text>
+    <rect x="700" y="356" width="10" height="10" rx="2" fill="#7CC4FF"/>
+    <text x="716" y="366">React</text>
+    <rect x="790" y="356" width="10" height="10" rx="2" fill="#F0C14D"/>
+    <text x="806" y="366">Python</text>
+    <rect x="890" y="356" width="10" height="10" rx="2" fill="#3EE0B0"/>
+    <text x="906" y="366">IA</text>
   </g>
 </svg>
