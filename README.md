@@ -8,6 +8,14 @@ Développeur front-end et mobile à Lomé. Je construis des interfaces web et mo
   <img src="./assets/stack.svg" alt="Compétences : front-end, mobile, intelligence artificielle, back-end et outils" width="100%" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brayden-Code-4/Brayden-Code-4/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brayden-Code-4/Brayden-Code-4/output/github-contribution-grid-snake.svg" />
+    <img alt="Serpent qui parcourt les contributions GitHub de Joseph" src="https://raw.githubusercontent.com/Brayden-Code-4/Brayden-Code-4/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ### Repères
 
 - **3e place mondiale** au hackathon The Udara Project (juin 2026), développeur front-end unique de l'équipe ZeToD.
