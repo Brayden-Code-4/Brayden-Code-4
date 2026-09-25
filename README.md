@@ -16,25 +16,22 @@ Développeur front-end et mobile à Lomé. Je construis des interfaces web et mo
   </picture>
 </p>
 
-### Repères
+<p align="center">
+  <img src="./assets/podiums.svg" alt="3e mondiale au hackathon Udara Project, juin 2026, front-end unique de ZeToD. 3e au Miabé Hackathon 2026. Sélection FlutterFire Summer Camp, Google Developer Experts." width="100%" />
+</p>
 
-- **3e place mondiale** au hackathon The Udara Project (juin 2026), développeur front-end unique de l'équipe ZeToD.
+<p align="center">
+  <img src="./assets/timeline.svg" alt="Parcours : E-Stage Facile depuis 2024, hackathons Udara et Miabé en 2026, Rodium AI (MEST 2026) en cours, stage mobile à l'OTR à partir d'octobre 2026." width="100%" />
+</p>
 
-- **3e place** au Miabé Hackathon (2026), côté front-end.
+Bénévole avec GDG Lomé, Space X AI Lomé et Forge4Africa.
 
-- **FlutterFire Summer Camp**, avec des Google Developer Experts (2026).
+<p align="center">
+  <img src="./assets/contact.svg" alt="LinkedIn joseph-naboudja et e-mail naboudjat@gmail.com" width="100%" />
+</p>
 
-- **E-Stage Facile**, depuis 2024 : une plateforme pour le recrutement de stagiaires au Togo. Front-end, cahier des charges, et analyse de documents.
-
-- **OTR** : stage développeur mobile d'octobre 2026 à octobre 2027, avec Flutter et Firebase.
-
-Spécialisation RAG et agents IA en cours, avec Rhodium AI et le MEST Ghana. Bénévole avec GDG Lomé, Space X AI Lomé et Forge4Africa.
-
-### Liens
-
-- [GitHub](https://github.com/Brayden-Code-4)
-
-- [LinkedIn](https://www.linkedin.com/in/joseph-naboudja-42193625b/)
-
-- naboudjat@gmail.com
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseph-naboudja-42193625b/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:naboudjat@gmail.com">naboudjat@gmail.com</a>
+</p>

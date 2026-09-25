@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="timeTitle timeDesc">
+  <title id="timeTitle">Parcours</title>
+  <desc id="timeDesc">E-Stage Facile depuis 2024, hackathons 2026, Rodium AI (MEST 2026) en cours, stage OTR a partir d'octobre 2026.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF8FA3"/>
+      <stop offset="0.35" stop-color="#7CC4FF"/>
+      <stop offset="0.68" stop-color="#3EE0B0"/>
+      <stop offset="1" stop-color="#F0C14D"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3EE0B0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7CC4FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F0C14D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="#070B12"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+  <rect x="80" y="58" width="1040" height="2" fill="url(#edge)"/>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <text x="48" y="46" fill="#8B98AD" font-size="13" letter-spacing="4">PARCOURS</text>
+    <text x="1152" y="46" text-anchor="end" fill="#ffffff" fill-opacity="0.28" font-size="18" letter-spacing="2" font-weight="700">JN</text>
+  </g>
+  <line x1="120" y1="168" x2="1080" y2="168" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" text-anchor="middle">
+    <g>
+      <circle cx="170" cy="168" r="14" fill="#070B12" stroke="#FF8FA3" stroke-width="2"/>
+      <circle cx="170" cy="168" r="5" fill="#FF8FA3"/>
+      <text x="170" y="128" fill="#FF8FA3" font-size="13" font-weight="700" letter-spacing="1.2">2024</text>
+      <text x="170" y="214" fill="#F4F7FB" font-size="18" font-weight="700">E-Stage Facile</text>
+      <text x="170" y="238" fill="#B7C3D6" font-size="13">Stagiaires au Togo</text>
+      <text x="170" y="262" fill="#3EE0B0" font-size="13" font-weight="700">En cours</text>
+    </g>
+    <g>
+      <circle cx="450" cy="168" r="14" fill="#070B12" stroke="#7CC4FF" stroke-width="2"/>
+      <circle cx="450" cy="168" r="5" fill="#7CC4FF"/>
+      <text x="450" y="128" fill="#7CC4FF" font-size="13" font-weight="700" letter-spacing="1.2">2026</text>
+      <text x="450" y="214" fill="#F4F7FB" font-size="18" font-weight="700">Hackathons</text>
+      <text x="450" y="238" fill="#B7C3D6" font-size="13">Udara &#183; Miab&#233;</text>
+      <text x="450" y="262" fill="#7CC4FF" font-size="13" font-weight="700">Front-end</text>
+    </g>
+    <g>
+      <circle cx="750" cy="168" r="14" fill="#070B12" stroke="#3EE0B0" stroke-width="2"/>
+      <circle cx="750" cy="168" r="5" fill="#3EE0B0"/>
+      <text x="750" y="128" fill="#3EE0B0" font-size="13" font-weight="700" letter-spacing="1.2">2026</text>
+      <text x="750" y="214" fill="#F4F7FB" font-size="18" font-weight="700">Rodium AI</text>
+      <text x="750" y="238" fill="#B7C3D6" font-size="13">MEST</text>
+      <text x="750" y="262" fill="#3EE0B0" font-size="13" font-weight="700">En cours</text>
+    </g>
+    <g>
+      <circle cx="1030" cy="168" r="14" fill="#070B12" stroke="#F0C14D" stroke-width="2"/>
+      <circle cx="1030" cy="168" r="5" fill="#F0C14D"/>
+      <text x="1030" y="128" fill="#F0C14D" font-size="13" font-weight="700" letter-spacing="1.2">OCT. 2026</text>
+      <text x="1030" y="214" fill="#F4F7FB" font-size="18" font-weight="700">OTR</text>
+      <text x="1030" y="238" fill="#B7C3D6" font-size="13">Stage mobile &#183; 12 mois</text>
+      <text x="1030" y="262" fill="#F0C14D" font-size="13" font-weight="700">&#192; venir</text>
+    </g>
+  </g>
+</svg>

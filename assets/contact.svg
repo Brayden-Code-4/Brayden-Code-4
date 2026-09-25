@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" role="img" aria-labelledby="contactTitle contactDesc">
+  <title id="contactTitle">Contact</title>
+  <desc id="contactDesc">LinkedIn joseph-naboudja et e-mail naboudjat@gmail.com</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7CC4FF"/>
+      <stop offset="1" stop-color="#3EE0B0"/>
+    </linearGradient>
+    <filter id="lift" x="-20%" y="-30%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="148" rx="28" fill="#070B12"/>
+  <rect x="1" y="1" width="1198" height="146" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+  <g filter="url(#lift)" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <rect x="70" y="36" width="500" height="76" rx="38" fill="#121826" stroke="url(#edge)" stroke-width="1.25"/>
+    <circle cx="124" cy="74" r="18" fill="#7CC4FF" fill-opacity="0.14" stroke="#7CC4FF" stroke-width="1.5"/>
+    <text x="124" y="79" text-anchor="middle" fill="#7CC4FF" font-size="13" font-weight="700">in</text>
+    <text x="158" y="68" fill="#F4F7FB" font-size="18" font-weight="700">LinkedIn</text>
+    <text x="158" y="90" fill="#93A0B5" font-size="14">joseph-naboudja</text>
+    <rect x="630" y="36" width="500" height="76" rx="38" fill="#121826" stroke="url(#edge)" stroke-width="1.25"/>
+    <circle cx="684" cy="74" r="18" fill="#3EE0B0" fill-opacity="0.14" stroke="#3EE0B0" stroke-width="1.5"/>
+    <rect x="674" y="68" width="20" height="14" rx="2" fill="none" stroke="#3EE0B0" stroke-width="1.5"/>
+    <path d="M675 69 L684 76 L693 69" fill="none" stroke="#3EE0B0" stroke-width="1.5"/>
+    <text x="718" y="68" fill="#F4F7FB" font-size="18" font-weight="700">E-mail</text>
+    <text x="718" y="90" fill="#93A0B5" font-size="14">naboudjat@gmail.com</text>
+  </g>
+</svg>
