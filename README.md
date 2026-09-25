@@ -1,5 +1,5 @@
 <div align="center"> 
-# NABOUDJA Tchapo
+    <h1> NABOUDJA Tchapo</h1>
 ##     Joseph
 |
 ### Developpeur Front-End
