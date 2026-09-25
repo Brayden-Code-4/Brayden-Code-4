@@ -21,7 +21,7 @@ Développeur front-end et mobile à Lomé. Je construis des interfaces web et mo
 </p>
 
 <p align="center">
-  <img src="./assets/timeline.svg" alt="Parcours : E-Stage Facile depuis 2024, hackathons Udara et Miabé en 2026, Rodium AI (MEST 2026) en cours, stage mobile à l'OTR à partir d'octobre 2026." width="100%" />
+  <img src="./assets/timeline.svg" alt="Parcours : E-Stage Facile depuis 2024, Google Startup School Prompt to Prototype en décembre 2025, hackathons Udara et Miabé en 2026, Rodium AI (MEST 2026) en cours." width="100%" />
 </p>
 
 Bénévole avec GDG Lomé, Space X AI Lomé et Forge4Africa.
